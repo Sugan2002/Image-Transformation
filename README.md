@@ -8,7 +8,6 @@ Anaconda - Python 3.7
 
 ### Step1: Import the necessary libraries and read the original image and save it a image variable.
 <br>
-
 ### Step2: Translate the image using
 Translation_matrix=np.float32([[1,0,120],[0,1,120],[0,0,1]]) Translated_image=cv2.warpPerspective(org_img,Translation_matrix,(col,row))
 <br>
