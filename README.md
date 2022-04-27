@@ -99,7 +99,6 @@ plt.imshow(cropped_image)
 <br>
 <br>
 
-### ii) Image Scaling
 ### ii)Image Scaling
 ![o3](https://user-images.githubusercontent.com/77089743/165481954-96d410d2-aa29-4a84-a441-97a960cbf75f.PNG)
 <br>
@@ -121,7 +120,6 @@ plt.imshow(cropped_image)
 <br>
 <br>
 <br>
-@@ -83,6 +125,7 @@ vi)Image Cropping
 
 
 ### v)Image Rotation
@@ -129,7 +127,6 @@ plt.imshow(cropped_image)
 <br>
 <br>
 <br>
-@@ -91,6 +134,7 @@ vi)Image Cropping
 
 
 ### vi)Image Cropping
