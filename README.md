@@ -34,11 +34,10 @@ cropped_image=org_img[10:350,320:560]
 
 ## Program:
 ```python
-Developed By:
-Register Number:
-i)Image Translation
 Developed By   : P.SUGANYA
 Register Number: 212220230049
+
+i)Image Translation
 
 import cv2
 import numpy as np
